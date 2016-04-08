@@ -128,8 +128,8 @@
  * --------------------------------------------------------
  * --------------------------------------------------------
  *
- * If you find a bug, have a doubt or want to tell me something, send an email to: subraya2013@gmail.com 
- * (please use a meaningful subject so I don't think it's spam).
+ * If you find a bug, have a doubt or want to tell me something, contact me on github:
+ * https://github.com/subraya/rpgmaker-mv.
  */
 
 
