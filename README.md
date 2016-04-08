@@ -13,5 +13,5 @@ The battle visuals allows you to change some visual aspects on the battle screen
 - 'Vertical Status': Actors' info will be vertically aligned instead of the horizontal by default.
 - 'Mark Current Input': Adds a whitening effect to the current actor during the action decision phase.
 - 'Show Status Command': Adds a status command, just like the one in the main menu.
-- 
+
 (This plugin was motivated by the battle formation plugin, but is absolutely independent)
