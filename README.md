@@ -3,6 +3,8 @@ Plugins for RPG Maker MV
 
 ## List of available plugins
 
+(see wiki for more details)
+
 ###SUB_BattleFormation
 
 The battle formation plugin enables adding a 5th member to the party. If your party has 5 members and you are usign the side-view system, you can change the actors' disposition on battle field (options: line -default-, V, X). Additionally you can allow stats to change when using X or V formation (each actor's stats will change according to its position: front-line will have increased damage but lower defense, and viceversa).
